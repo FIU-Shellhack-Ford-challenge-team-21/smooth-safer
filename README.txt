@@ -1,4 +1,4 @@
-![SMOOTH-SAFER DEMO](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/673/213/datas/original.jpg)https://www.youtube.com/watch?v=BZFNZBssV7s)
+[![SMOOTH-SAFER DEMO](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/673/213/datas/original.jpg)](https://www.youtube.com/watch?v=BZFNZBssV7s)
 
 ### Inspiration
 
@@ -7,8 +7,8 @@ The major driving force behind coming up with a project targeting drivers and pr
 ### What it does
 
 Drivers can locate nearest gas station to prevent issues with fuel shortage. The web app also offers tips in surviving on the road like eating healthy and comfort food, driving with family members on board and avoiding pain while driving for long period of time. Also, response team provides assistance through e-mail.
-How we built it
 
+## How we built it
 ### Challenges we ran into
 
 Integrating frontend which is mostly written in JavaScript and backend written in Django that is written in a different language. Team member responsible for the backend needed to explore the knowledge in using API with other tool like mysql and google API.
