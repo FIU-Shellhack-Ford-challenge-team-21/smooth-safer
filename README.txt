@@ -1,30 +1,29 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+[![IMAGE ALT TEXT HERE](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/673/213/datas/original.jpg)](https://www.youtube.com/watch?v=BZFNZBssV7s&t=2s)
 
+Inspiration
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+The major driving force behind coming up with a project targeting drivers and providing them a tool of productivity catering to their needs,being less time consuming as well as catering to their comfort and health hacks has been bringing in awareness of the challenging lives of drivers which gets overlooked. On researching more into the lives of drivers we were able to identify challenging areas and decided to work on navigation and location being of the number one importance and to test the prototype we centralized it finding nearby gas stations
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+What it does
 
-(* = not included)
+Drivers can locate nearest gas station to prevent issues with fuel shortage. The web app also offers tips in surviving on the road like eating healthy and comfort food, driving with family members on board and avoiding pain while driving for long period of time. Also, response team provides assistance through e-mail.
+How we built it
 
-AJ
-aj@lkn.io | @ajlkn
+Challenges we ran into
 
+Integrating frontend which is mostly written in JavaScript and backend written in Django that is written in a different language. Team member responsible for the backend needed to explore the knowledge in using API with other tool like mysql and google API.
+Accomplishments that we're proud of
 
-Credits:
+The prototype worked successfully and through APIs with making user’s location being retrieved automatically the whole project worked with a simple click . The assistance reserve service through e-mail actually worked and successfully got sent to an e-mail account.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+What we learned
 
-	Icons:
-		Font Awesome (fontawesome.io)
+The whole project has been a great learning experience for us all whether it has been working with incorporating SCSS to learning the importance of APIs, Int
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+What's next for Smooth Safer
+
+We aim to expand Smooth Safer by providing more one click features to find other nearby things like restaurants, motels, washrooms etc so as to make long drives a smooth sailing experience for many. Considering the numerous health issues that come up with driving and having high calorie snacks because they are quick fixes we also plan on adding in more dynamic sections to the website as well as more innovative navigation and security features to incorporate comfort into the lives of travelers.
+
+For the purpose of improving assistance online, real time chatroom is expected for assisting customers in real time for requesting roadside assistance service like changing flat tires and batteries, refueling small amount of gas to car that runs out of fuel and towing.
+
+Source: https://devpost.com/software/smooth-safer
