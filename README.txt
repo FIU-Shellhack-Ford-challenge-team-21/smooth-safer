@@ -1,4 +1,4 @@
-[![SMOOTH-SAFER DEMO](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/673/213/datas/original.jpg)](https://www.youtube.com/watch?v=BZFNZBssV7s)
+[![SMOOTH-SAFER DEMO](http://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/673/213/datas/original.jpg)](http://www.youtube.com/watch?v=BZFNZBssV7s)
 
 ### Inspiration
 
