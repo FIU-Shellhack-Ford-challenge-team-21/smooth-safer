@@ -1,4 +1,5 @@
 [![SMOOTH-SAFER DEMO](http://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/673/213/datas/original.jpg)](http://www.youtube.com/watch?v=BZFNZBssV7s)
+https://www.youtube.com/watch?v=BZFNZBssV7s
 
 ### Inspiration
 
@@ -26,4 +27,4 @@ We aim to expand Smooth Safer by providing more one click features to find other
 
 For the purpose of improving assistance online, real time chatroom is expected for assisting customers in real time for requesting roadside assistance service like changing flat tires and batteries, refueling small amount of gas to car that runs out of fuel and towing.
 
-Source: https://devpost.com/software/smooth-safer
+### Source: https://devpost.com/software/smooth-safer
